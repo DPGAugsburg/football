@@ -1,4 +1,5 @@
-2. das ist die 2. Änderung
+
+2. Feature vom Dockerfile
 #FIX
 
 ARG DOCKER_BASE
